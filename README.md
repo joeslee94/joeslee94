@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joeslee94" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joeslee94" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/joeslee94" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="joeslee94" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joeslee94" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR953k4yM09wvKrA-RzfpQ6aDaknLot8lE5wA&usqp=CAU" alt="joeslee94" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/joeslee94" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="joeslee94" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
