@@ -1,6 +1,7 @@
 <h1 align="center">Hello, my name is Joe Lee</h1>
 <h3 align="center">An eternal student looking to discover new opportunities to grow and reach higher heights</h3>
 
+<p align="center"> <img src="https://bloomreviewsblog.files.wordpress.com/2016/12/laputa.jpg" alt="tree" width="1920" height="650"/>
 
 - I’m currently working on [faze](https://github.com/joeslee94/faze).
 
