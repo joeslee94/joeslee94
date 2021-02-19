@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeslee94=Profile%20views&color=0e75b6&style=flat" alt="ishmaeldojaquez" /> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=joeslee94-flat-square alt="joeslee94" /> </p>
 
 <h1 align="center">Hello, my name is Joe Lee</h1>
 <h3 align="center">An eternal student looking to discover new opportunities to grow and reach higher heights</h3>
