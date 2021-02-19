@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeslee94=Profile%20views&color=0e75b6&style=flat" alt="ishmaeldojaquez" /> </p>
+
 <h1 align="center">Hello, my name is Joe Lee</h1>
 <h3 align="center">An eternal student looking to discover new opportunities to grow and reach higher heights</h3>
 
@@ -19,3 +21,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
