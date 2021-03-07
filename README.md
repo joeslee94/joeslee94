@@ -22,11 +22,11 @@
 <p align = "center"><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=radical)"/></p>
 
 <h3 align="center">Languages and Tools:</h3>
+<p>
+  
+<code><img width="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
+<br />
+<code><img width="10%" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"></code>
 
-<p align> 
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <align = "center" img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="dotnet" width="40" height="40"/> </a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-   
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
