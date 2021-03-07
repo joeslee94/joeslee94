@@ -17,14 +17,9 @@
 
 - Reach me at: **joe.s.lee94@gmail.com, joeslee@umich.edu, or joeslee94@outlook.com**.
 
-- Ask me about **Fun basic training stories**.
+- Ask me about basic training (Army) stories.
 
-<p align="left">
-
-<a href="https://www.leetcode.com/joeslee94" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="joeslee94" height="40" width="40" /></a>
-</p>
+<p align = "center"><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=radical)"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
-
-[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
