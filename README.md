@@ -1,4 +1,6 @@
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=joeslee94-flat-square alt="joeslee94" /> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=joeslee94-flat-square alt="joeslee94" /> </p>
+<p align="center"><a href="https://linkedin.com/in/joeslee94" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="joeslee94"/></a></p>
+<p align="center"><a href="https://leetcode.com/joeslee94/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=black" alt="joeslee94"/></a></p>
 
 <h1 align="center">Hello, my name is Joe Lee</h1>
 <h3 align="center">An eternal student looking to discover new opportunities to grow and reach higher heights</h3>
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joeslee94" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR953k4yM09wvKrA-RzfpQ6aDaknLot8lE5wA&usqp=CAU" alt="joeslee94" height="40" width="40" /></a>
+
 <a href="https://www.leetcode.com/joeslee94" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="joeslee94" height="40" width="40" /></a>
 </p>
 
