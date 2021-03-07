@@ -23,8 +23,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> 
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="dotnet" width="40" height="40"/> </a>
+<p align> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <align = "center" img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="dotnet" width="40" height="40"/> </a>
 
   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
    
