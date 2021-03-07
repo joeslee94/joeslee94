@@ -22,12 +22,14 @@
 <p align = "center"><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=radical)"/></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p>
+
+<p align="center">
   
-<code><img width="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
-<code><img width="10%" src="https://seeklogo.com/vector-logo/298266/microsoft-sql-server"></code>
-<code><img width="10%" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
-<code><img width="10%" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"></code>
+<code><img width=60px img height=60px src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+<code><img width=60px img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
+<code><img width=60px img height=60px src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
+<code><img width=60px img height=60px src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"></code>
+<code><img width=60px img height=60px src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
+<code><img width=60px img height=60px src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"></code>
 
 </p>
