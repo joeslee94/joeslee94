@@ -1,6 +1,10 @@
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=joeslee94-flat-square alt="joeslee94" /> </p>
-<p align="center"><a href="https://linkedin.com/in/joeslee94" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="joeslee94"/></a></p>
-<p align="center"><a href="https://leetcode.com/joeslee94/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=black" alt="joeslee94"/></a></p>
+<p align="center">
+  <img src=https://komarev.com/ghpvc/?username=joeslee94-flat-square alt="joeslee94" />
+  
+  <a href="https://linkedin.com/in/joeslee94" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="joeslee94"/></a>
+  
+  <a href="https://leetcode.com/joeslee94/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=black" alt="joeslee94"/></a>
+</p>
 
 <h1 align="center">Welcome, I am Joe</h1>
 <h3 align="center">An eternal student discovering new opportunities to reach higher heights</h3>
@@ -12,14 +16,25 @@
 <h3 align="center">Projects and Goals</h3>
 
 - I’m currently working on [FAZE](https://github.com/joeslee94/faze). Like WAZE but for Fishing.
-
-- I’m currently learning **C#, T-SQL, ASP.NET, Azure**.
-
+- I’m currently learning C#, T-SQL, ASP.NET (MVC Core), Azure, Python, Java, HTML, and CSS.
+- My goal is to complete 100 LeetCode problems by the end of April.
 - Reach me at: **joe.s.lee94@gmail.com, joeslee@umich.edu, or joeslee94@outlook.com**.
-
 - Ask me about basic training (Army) stories.
 
 <p align = "center"><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=radical)"/></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="dotnet" width="40" height="40"/> </a>
+
+  <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="dotnet" width="40" height="40"/> </a>
+  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="dotnet" width="40" height="40"/> </a>
+  
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+  
+  <a href="https://www.python.org/" target="_blank"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="dotnet" width="40" height="40"/> </a>
+  
+  
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+</p>
