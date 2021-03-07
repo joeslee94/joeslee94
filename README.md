@@ -17,7 +17,7 @@
 - 💻 Currently learning C#, T-SQL, ASP.NET (MVC Core), Azure, Python, Java, HTML, and CSS.
 - ✔️ My goal is to complete 100 LeetCode problems by the end of April.
 - 📧 Reach me at: **joe.s.lee94@gmail.com, joeslee@umich.edu, or joeslee94@outlook.com**.
-- 🔥 Ask me about basic training (Army) stories.
+- 🔥 Ask me about basic training stories.
 
 <p align = "center"><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=radical)"/></p>
 
