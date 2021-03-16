@@ -19,7 +19,8 @@
 - 📧 Email me @: joe.s.lee94@gmail.com, joeslee@umich.edu, or joeslee94@outlook.com.
 - 🔥 Ask me about basic training stories.
 
-<p align = "center"><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=radical)"/></p>
+<p align = "center"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=dark"/></p>
+<p align = "center"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeslee94&layout=compact&theme=dark"/></p>
 
 <h4 align="left">Languages and Tools:</h4>
 
