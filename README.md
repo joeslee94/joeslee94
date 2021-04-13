@@ -14,10 +14,11 @@
 <h3 align="center">Projects and Goals</h3>
 
 - 🐟 Current project: [FAZE](https://github.com/joeslee94/faze). Like WAZE but for Fishing.
-- 💻 Learning languages: C#, T-SQL, ASP.NET (MVC Core), Azure, Python, Java, HTML, and CSS.
+- 💻 Learning languages: C#, C++, Java, Python, SQL, HTML, and CSS.
+  - Platform learning: Unreal Engine, Azure, ASP.NET, and ASP.NET MVC.
 - ✔️ Current Goal: Cracking the Coding Interview questions along with LeetCodes (50 Easy, 10 Medium, 1 Hard)
   -  ACHIEVED ON 11APR21: 100 LeetCode problems by the end of April.
-- 📧 Email me @: joe.s.lee94@gmail.com, joeslee@umich.edu, or joeslee94@outlook.com.
+- 📧 Email me @: joe.s.lee94@gmail.com.
 - 🔥 Ask me about basic training stories.
 
 <p align = "center"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=joeslee94&show_icons=true&theme=dark"/></p>
