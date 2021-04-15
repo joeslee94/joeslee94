@@ -32,10 +32,11 @@
 <code><img width=40px img height=40px src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></code>
 <code><img width=40px img height=40px src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"></code>
 <code><img width=40px img height=40px src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
-<code><img width=40px img height=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
-<code><img width=40px img height=40px src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
+<code><img width=40px img height=40px src="https://cdn.worldvectorlogo.com/logos/gopher.svg"></code>
 <code><img width=40px img height=40px src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"></code>
 <code><img width=40px img height=40px src="https://cdn.345tool.com/public/logos/css-formatter-logo.png"></code>
+<code><img width=40px img height=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
+<code><img width=40px img height=40px src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
 <code><img width=40px img height=40px src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"></code>
 
 </p>
