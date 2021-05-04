@@ -14,7 +14,7 @@
 <h3 align="center">Projects and Goals</h3>
 
 - 🐟 Current project: [FAZE](https://github.com/joeslee94/faze). Like WAZE but for Fishing.
-- 💻 Learning languages: C#, C++, Java, Python, SQL, HTML, and CSS.
+- 💻 Learning languages: C#, C++, Python, Java, Go, SQL, HTML, and CSS.
   - Platform learning: Unreal Engine, Azure, ASP.NET, and ASP.NET MVC.
 - ✔️ Current Goal: Cracking the Coding Interview questions along with LeetCodes (50 Easy, 10 Medium, 1 Hard)
   -  ACHIEVED ON 11APR21: 100 LeetCode problems by the end of April.
