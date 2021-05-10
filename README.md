@@ -16,7 +16,7 @@
 - 🐟 Current project: [FAZE](https://github.com/joeslee94/faze). Like WAZE but for Fishing.
 - 💻 Learning languages: C#, C++, Python, Java, Go, SQL, HTML, and CSS.
   - Platform learning: Unreal Engine, Azure, ASP.NET, and ASP.NET MVC.
-- ✔️ Current Goal: Cracking the Coding Interview questions along with LeetCodes (50 Easy, 10 Medium, 1 Hard)
+- ✔️ Current Goal: Cracking the Coding Interview questions along with LeetCodes (Hit 150 by 12MAY21, 200 by 30JUN21)
   -  ACHIEVED ON 11APR21: 100 LeetCode problems by the end of April.
   -  ACHIEVED ON 15APR21: 1 Hard LeetCode 1095. Find in Mountain Array
 - 📧 Email me @: joe.s.lee94@gmail.com.
